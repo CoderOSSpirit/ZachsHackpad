@@ -1,5 +1,5 @@
 # ZachsHackpad
-A macropad with four switches, a rotary encoder, and an OLED screen. It uses KMK firmware for operations.
+A macropad with four switches, a rotary encoder, and an OLED screen. It uses KMK firmware for operations. This macropad is designed to supplement traditional keyboards for gaming and work by streamlining certain common operations and making them easier for the user to execute.
 
 # Features:
 3D Printed Case with a seperate top and bottom cover
