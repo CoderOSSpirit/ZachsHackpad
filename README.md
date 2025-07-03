@@ -18,5 +18,9 @@ The top cover has room for all the parts
 Included here is both the Schematic and PCB. Both the schematic and PCB were made in KiCad, with footprints from the OPL_KiCad_Library: https://github.com/Seeed-Studio/OPL_Kicad_Library/
 Additional footprints were found a rotary encoder library: https://kicad.github.io/footprints/Rotary_Encoder and from a 0.91 inch OLED footprint found off of SnapMagic
 
-Schematic:
+Schematic: ![image](https://github.com/user-attachments/assets/a33b6a65-bc25-4e59-98e3-6e3a21ea9744)
+
+PCB: ![image](https://github.com/user-attachments/assets/e162c9bf-95e0-4aa5-b03b-180b625809d4)
+
+
 
