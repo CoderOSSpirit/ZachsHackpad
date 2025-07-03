@@ -20,7 +20,11 @@ Additional footprints were found a rotary encoder library: https://kicad.github.
 
 Schematic: ![image](https://github.com/user-attachments/assets/a33b6a65-bc25-4e59-98e3-6e3a21ea9744)
 
-PCB: ![image](https://github.com/user-attachments/assets/e162c9bf-95e0-4aa5-b03b-180b625809d4)
+
+PCB:
+
+
+![image](https://github.com/user-attachments/assets/e162c9bf-95e0-4aa5-b03b-180b625809d4)
 
 
 
