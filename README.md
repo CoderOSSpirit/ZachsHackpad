@@ -26,5 +26,18 @@ PCB:
 
 ![image](https://github.com/user-attachments/assets/e162c9bf-95e0-4aa5-b03b-180b625809d4)
 
+# Firmware:
+This macropad uses KMK firmware for everything and runs on a Seeed XIAO RP2040
+More features with the macropad will be added in the future
+
+# Bill of Materials:
+
+* Seeed XIAO RP2040
+* 4 MX-Style switches
+* 4 Blank DSA Keycaps
+* 1 EC11 Rotary Encoder
+* 1 0.91 inch OLED display with pin order GND-VCC-SCL-SDA
+* 1 3D-printed case (two seperate parts)
+
 
 
