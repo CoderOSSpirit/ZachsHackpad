@@ -27,8 +27,7 @@ PCB:
 ![image](https://github.com/user-attachments/assets/e162c9bf-95e0-4aa5-b03b-180b625809d4)
 
 # Firmware:
-This macropad uses KMK firmware for everything and runs on a Seeed XIAO RP2040
-More features with the macropad will be added in the future
+This macropad uses Arduino .ino files for firmware. I used Arduino IDE to flash the firmware onto the chip itself. Adafruit TinyUSB and HID libraries needed to be installed to properly flash firmware onto the chip. Firmware is still a work in progress. Currently, the keys are working, with updates to the OLED display and rotary encoder upcoming.
 
 # Bill of Materials:
 
